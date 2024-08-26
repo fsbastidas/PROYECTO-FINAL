@@ -1,0 +1,22 @@
+Instrucciones para Descargar y Ejecutar el Juego
+
+Forest Adventure es un juego interactivo donde los jugadores deben resolver desafíos colocando objetos en sus lugares correctos. El juego está diseñado para ser educativo y divertido, ofreciendo una experiencia inmersiva en un entorno natural.
+
+1. Descargar el Juego:
+En la página del repositorio, haz clic en el botón verde que dice Code.
+En el menú desplegable, selecciona la opción Download ZIP en la sección "Local".
+Esto descargará un archivo comprimido (.zip) en tu computadora.
+
+2. Extraer los Archivos:
+Navega hasta la ubicación donde se descargó el archivo ZIP.
+Haz clic derecho sobre el archivo y selecciona "Extraer todo" o "Unzip" para descomprimir los archivos.
+
+3. Ejecutar el Juego:
+Una vez extraídos los archivos, navega a la carpeta resultante.
+Localiza el archivo Proyecto Videojuegos.exe.
+Haz doble clic en Proyecto Videojuegos.exe para iniciar el juego.
+
+4. Trabajar con los Archivos de Unity:
+Dentro de la carpeta ArchivosUnity, encontrarás todas las escenas y recursos necesarios para el desarrollo del juego.
+Si deseas editar o modificar el juego, simplemente instala Unity en tu computadora.
+Abre Unity y selecciona la opción para abrir un proyecto existente, luego navega hasta la carpeta ArchivosUnity y selecciona los archivos de la escena para empezar a trabajar.
